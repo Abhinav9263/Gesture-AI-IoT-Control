@@ -41,10 +41,6 @@ gesture-controlled-smart-appliances/
 ├── README.md
 └── requirements.txt
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🖥️ Python Setup (PC Side)
@@ -57,9 +53,7 @@ pip install opencv-python mediapipe requests
 ▶️ Run the Gesture Controller
 Update your ESP32 IP in the script and run:
 
-bash
-Copy
-Edit
+
 python gesture_controller.py
 🔌 ESP32 Setup
 Upload gesture_appliance.ino to ESP32
@@ -100,23 +94,11 @@ USB Power or Battery
 📽️ Demo
 🔜 Coming soon: Demo video of live gesture-based control
 
-🙌 Credits
-Made with ❤️ by Abhinav
-Special thanks to the open-source communities of MediaPipe, OpenCV, and ESP32.
+
+            Made with ❤️ by Abhinav
+
 
 🪄 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
 
----
-
-### 🛠️ Files You Might Need
-
-Let me know and I can generate:
-- 🧾 `requirements.txt`
-- 🧠 `gesture_controller.py`
-- 🧑‍💻 `gesture_appliance.ino`
-- 🧩 `circuit_diagram.png`
